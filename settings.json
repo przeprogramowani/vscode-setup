@@ -1,0 +1,58 @@
+{
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[astro]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[svelte]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "editor.tabSize": 4,
+    "editor.fontFamily": "'Monaspace'",
+    "editor.fontLigatures": true,
+    "update.showReleaseNotes": false,
+    "terminal.integrated.fontFamily": "FiraCodeNerdFontComplete-Retina",
+    "svelte.enable-ts-plugin": true,
+    "editor.guides.bracketPairs": "active",
+    "workbench.sideBar.location": "right",
+    "redhat.telemetry.enabled": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    },
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+    "window.zoomLevel": 4,
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.activityBar.location": "hidden",
+    "workbench.startupEditor": "none"
+}

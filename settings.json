@@ -78,6 +78,7 @@
   "editor.wordWrap": "on",
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
+  "explorer.compactFolders": false,
   "files.autoSave": "onFocusChange",
   "files.eol": "\n",
   "files.trimFinalNewlines": true,
@@ -149,5 +150,6 @@
   "workbench.startupEditor": "none",
   "workbench.statusBar.visible": false,
   "workbench.tree.indent": 30,
-  "zenMode.fullScreen": false
+  "zenMode.fullScreen": false,
+  "redhat.telemetry.enabled": false
 }

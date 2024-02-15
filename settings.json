@@ -41,7 +41,8 @@
   "diffEditor.useInlineViewWhenSpaceIsLimited": false,
   "editor.acceptSuggestionOnEnter": "smart",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit"
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
   },
   "editor.cursorBlinking": "expand",
   "editor.cursorWidth": 4,

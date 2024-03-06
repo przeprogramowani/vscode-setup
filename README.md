@@ -1,10 +1,14 @@
 ## VS Code Setup by Przeprogramowani
 
-### Main font - Monaspace
+![](./_resources/img/header.png)
 
-https://monaspace.githubnext.com 
+Konfiguracja edytora wykorzystywana w kursie Opanuj Frontend: AI Edition.
 
-### Terminal font - Fira Code
+### Font edytora - Monaspace
+
+https://monaspace.githubnext.com
+
+### Font terminala - Fira Code
 
 ```bash
 brew tap homebrew/cask-fonts
@@ -15,7 +19,8 @@ brew cask install font-fira-code-nerd-font
 
 https://starship.rs
 
-Add to `~/.zshrc`
+Dodaj do _dotfile_ twojego terminala, np. `~/.zshrc`
+
 ```bash
 eval "$(starship init zsh)"
 ```

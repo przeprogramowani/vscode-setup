@@ -113,7 +113,6 @@
   "search.exclude": {
     "**/bower_components": true,
     "**/node_modules": true,
-    // Hide everything in /public, except "index.php"
     "**/public/[abcdefghjklmnopqrstuvwxyz]*": true,
     "**/public/i[abcdefghijklmopqrstuvwxyz]*": true,
     "**/vendor/[abcdefghijkmnopqrstuvwxyz]*": true,

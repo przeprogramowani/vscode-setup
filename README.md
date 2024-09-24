@@ -2,7 +2,7 @@
 
 ![](./_resources/img/header.png)
 
-Konfiguracja edytora wykorzystywana w kursie Opanuj Frontend: AI Edition.
+Konfiguracja edytora wykorzystywana w kursach i szkoleniach Przeprogramowanych.
 
 ### Font edytora - Monaspace
 
